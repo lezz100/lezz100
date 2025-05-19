@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack Developer . In love with django and react js. 🌐 Specialized in web development. Constantly exploring new technologies and frameworks. 🛠️ Proficient with Git,Github,python and Javascript 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!The future is bright!
+Full stack web Developer . In love with django and react js. 🌐 Specialized in web development. Constantly exploring new technologies and frameworks. 🛠️ Proficient with Git,Github,python and Javascript 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!The future is bright!
 
 
 ## 🌐 Socials:
