@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack web and app Developer currently in Kenya . In love with django and react js and cybersecurity as my side chick. 🌐 Specialized in back end web development. Constantly exploring new technologies and frameworks. 🛠️ Proficient with Git,Github,python and Javascript 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!The future is bright! I deliver quality work
+Full stack web and app Developer currently in Kenya . In love with django and react js and cybersecurity as my side chick. 🌐 Specialized in back end web development. Constantly exploring new technologies and frameworks. 🛠️ Proficient with Git,Github,python and Javascript 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!The future is bright! I deliver quality work. I mean..its precious
 
 
 ## 🌐 Socials:
